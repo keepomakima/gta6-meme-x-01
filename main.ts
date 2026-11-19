@@ -1,10 +1,10 @@
 // gta6-meme-x-01 entrypoint (Node 22, standard library only).
 //
 // The entry is the X post itself: the meme image plus its caption. This
-// program has one job for the grader — hand the post's address over. It
+// program exists for the grader — it hands the post's address over. It
 // reads POST.json from the repository root, checks that it is a JSON
-// object with a non-empty "url" string, and copies it byte for byte to the
-// grader's output directory. Nothing else happens here.
+// object carrying a non-empty "url" string, and copies the file byte for
+// byte into the grader's output directory. That is all it does.
 //
 // Run it the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
@@ -12,8 +12,8 @@
 import { copyFileSync, mkdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-// /bot and /output inside the grader; the two environment variables let
-// the same code run locally with the same behaviour.
+// Inside the grader these are /bot and /output; the two environment
+// variables let the same code run locally with the same behaviour.
 const repoRoot = process.env.MAKEFUN_BOT_DIR ?? '/bot';
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
@@ -46,10 +46,9 @@ if (typeof post.url !== 'string' || post.url.trim().length === 0) {
   die(`POST.json in ${repoRoot} must contain a non-empty "url" string`);
 }
 
-// The grader opens this URL to reach the X post, so a non-empty string
-// is not enough: it must parse as a real URL and use https. Anything
-// else (a bare word, an ftp:// link, ...) would leave the grader with
-// an address it cannot open.
+// A non-empty string is not enough for the grader: the address has to
+// parse as a real URL and use https, otherwise the grader cannot open
+// the post. A bare word or an ftp:// link must fail loudly here.
 let parsedUrl;
 try {
   parsedUrl = new URL(post.url);
