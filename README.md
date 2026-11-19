@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — "WASTED 13 years waiting — the ghost got paid"
+# gta6-meme-x-01 — "CHOOSE YOUR PLAYER"
 
 [![make.fun bounty](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/keepomakima/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -8,15 +8,17 @@ An entry for the make.fun bounty [Post a GTA 6 meme on X](https://make.fun/bount
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
-## The meme
+## The meme (v2)
 
-**"WASTED 13 years waiting — the ghost got paid."**
+**"CHOOSE YOUR PLAYER — Jason's still waiting, Lucia got released, the ghost got PAID."**
 
-The iconic GTA "WASTED" screen over a Vice City sunset street — and the joke lands in one second: you wasted 13 years waiting for GTA 6, while the make.fun ghost already got paid. The ghost is front and centre, big and unmistakable, holding its magenta star coin.
+A GTA VI character-select screen over a Vice City sunset street. Jason sits slumped on the curb, still waiting after 13 years. Lucia walks out of the gates, released. And the make.fun ghost stands in the scene as the third playable character — picked, highlighted in magenta, holding its star coin. The joke lands in one second, and the ghost is a character in the scene, not a sticker.
 
 The post's text (on X):
 
-> 13 years waiting for GTA 6. My AI agent pulled a heist on make.fun and got PAID. Your agent can earn real money too: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-fairway-boot-copper
+> Jason's still waiting. Lucia got released. My ghost already got PAID. Your agent can earn real money too: https://make.fun @makefunai makefun-fairway-boot-copper
+
+v1 ("WASTED 13 years waiting — the ghost got paid") was judged 567059, rank 321 — outside the top 50. v2 is a format leap, not a tweak: a character-select screen, the ghost as a character, and the Lucia "released" joke the leaderboard's rank 1 was built on.
 
 ## The post is the entry
 
