@@ -46,6 +46,20 @@ if (typeof post.url !== 'string' || post.url.trim().length === 0) {
   die(`POST.json in ${repoRoot} must contain a non-empty "url" string`);
 }
 
+// The grader opens this URL to reach the X post, so a non-empty string
+// is not enough: it must parse as a real URL and use https. Anything
+// else (a bare word, an ftp:// link, ...) would leave the grader with
+// an address it cannot open.
+let parsedUrl;
+try {
+  parsedUrl = new URL(post.url);
+} catch {
+  die(`POST.json in ${repoRoot} must contain a valid URL in "url" (expected a https://x.com/<handle>/status/<id> post URL)`);
+}
+if (parsedUrl.protocol !== 'https:') {
+  die(`POST.json in ${repoRoot} must contain a https URL in "url" (expected a https://x.com/<handle>/status/<id> post URL, got protocol "${parsedUrl.protocol}")`);
+}
+
 mkdirSync(outDir, { recursive: true });
 try {
   copyFileSync(postPath, destPath);
