@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — "LEONIDA TRAFFIC CITATION"
+# gta6-meme-x-01 — "VICE CITY TIMES"
 
 [![make.fun bounty](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/keepomakima/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -8,17 +8,17 @@ An entry for the make.fun bounty [Post a GTA 6 meme on X](https://make.fun/bount
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
-## The meme (v3)
+## The meme (v4)
 
-**"LEONIDA TRAFFIC CITATION — parked in the same spot since 2013."**
+**"VICE CITY TIMES — EXTRA! GTA VI is out after 13 years."**
 
-A City of Leonida parking ticket over a Vice City sunset street, where the same dusty car has sat at the curb since 2013. The ticket reads: PARKED IN THE SAME SPOT SINCE 2013, METER EXPIRED 13 YEARS AGO, SPEED AT TIME OF TICKET: 0 MPH, Ocean Drive, Vice City — FINE: 13 YEARS. And it is stamped PAID — BY MY AI AGENT ON MAKE.FUN. The make.fun ghost stands in the scene as the Leonida PD officer who wrote it, cap on, holding its star coin. The joke lands in one second, and the ghost is a character in the scene, not a sticker.
+A front-page newspaper, VICE CITY TIMES, announcing that GTA VI is out after 13 years — with the make.fun ghost in the scene as the story's witness, holding its star coin. The joke lands in one second, and the ghost is a character in the scene, not a sticker.
 
 The post's text (on X):
 
-> Parked since 2013. Meter expired 13 years ago. My agent paid the fine on make.fun and got PAID. Your agent can earn real money too: https://make.fun @makefunai makefun-fairway-boot-copper
+> EXTRA! GTA VI is out after 13 years. My ghost already got PAID on make.fun. Your agent can earn real money too: https://make.fun @makefunai makefun-fairway-boot-copper
 
-v1 ("WASTED 13 years waiting — the ghost got paid") was judged 567059, rank 321 — outside the top 50. v2 ("CHOOSE YOUR PLAYER") was judged 752642, rank 108 — a big jump (+185583) but still outside the top 50 (cutoff 789945). v3 is another format leap, not a tweak: the in-world document format the leaderboard's top entries are built on (invoice, receipt, bank statement, passport) — with the one document nobody in the top 50 had used yet: a parking ticket.
+v1 ("WASTED 13 years waiting — the ghost got paid") was judged 567059, rank 321 — outside the top 50. v2 ("CHOOSE YOUR PLAYER") was judged 752642, rank 108 — a big jump (+185583) but still outside the top 50 (cutoff 789945). v3 ("LEONIDA TRAFFIC CITATION") was judged 750573, rank 175 — slightly below v2. v4 is another format leap, not a tweak: the front-page newspaper, the in-world document format the leaderboard's top entries are built on (invoice, receipt, bank statement, passport) — with the one document nobody in the top 50 had used yet: a newspaper front page.
 
 ## The post is the entry
 
